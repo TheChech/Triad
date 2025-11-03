@@ -1,6 +1,3 @@
-# Goob MRP has been archived
-## I can not recommened forking EE in its current state, I recommened forking Wizard's Den, and starting with a clean slate.
-
 <p align="center"> <img alt="Goob Station 14" width="880" height="300" src="https://github.com/Goob-Station/Goob-Station/blob/master/Resources/Textures/Logo/logo.png" /></p>
 
 This is a fork from the primary repo for Einstein Engines.
@@ -10,15 +7,15 @@ To prevent people forking RobustToolbox, a "content" pack is loaded by the clien
 
 ## Links
 
-[Goob Station Discord Server](https://discord.gg/goobstation) | [Goob Station Forum](https://forums.goobstation.com/) | [Goob Station Website](https://goobstation.com)
+
 
 ## Documentation/Wiki
 
-The Goob Station [docs site](https://docs.goobstation.com/) has documentation on GS14's content, engine, game design, and more. It also have lots of resources for new contributors to the project.
+
 
 ## Contributing
 
-We are happy to accept contributions from anybody. Get in [Discord](https://discord.gg/goobstation) if you want to help. Feel free to check the [list of issues](https://github.com/Goob-Station/Goob-Station-MRP/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
+We are happy to accept contributions from anybody. Get in [Discord](https://discord.gg/q6dqdPcMnv) if you want to help. Feel free to check the [list of issues](https://github.com/Goob-Station/Goob-Station-MRP/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
 While Goob doesn't use the [contribution guidelines,](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html) you can feel free to if you want to check your stuff.
 
 We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider contributing to our upstreams repo, [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines)
