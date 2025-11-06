@@ -72,10 +72,10 @@
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Gun
-    minAngle: 2
-    maxAngle: 6
-    angleIncrease: 2
-    angleDecay: 8
+   #minAngle: 2   # This was causing the game to crash unpon used. Angle seems fine without it. This is a deathsquad weapon after all. we want them to be accurate and win
+   #maxAngle: 6
+   #angleIncrease: 2
+   #angleDecay: 8
     fireRate: 8
     selectedMode: FullAuto
     availableModes:
